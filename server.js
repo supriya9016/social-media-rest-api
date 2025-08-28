@@ -13,6 +13,6 @@ connectDB();
 app.listen(port,()=>{
     console.log(`server started on port ${port}`);
 });
-const postRouter=require('./routes/posts');
+const postRouter=require('./routes/post');
 app.use('/api',postRouter)
 module.exports = app;
