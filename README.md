@@ -1,10 +1,3 @@
-Got it 👍 — let’s make a **clean, professional README** for your GitHub repo without mentioning GeeksforGeeks at all.
-
-Here’s a version you can directly use:
-
----
-
-```markdown
 # Social Media REST API
 
 A RESTful API built with **Node.js**, **Express**, and **MongoDB** that provides core features of a simple social media platform such as user authentication, post creation, and deletion.
